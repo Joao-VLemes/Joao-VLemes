@@ -1,16 +1,26 @@
 ## ✞
 ![](https://github.com/Joao-VLemes/Joao-VLemes/blob/main/banner.jpg)
-<!--
-**Joao-VLemes/Joao-VLemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou o João Lemes
 
-Here are some ideas to get you started:
+🎓 Estudante de **Engenharia de Computação** na UTFPR (2º semestre)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias que conheço
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 📚 Atualmente aprendendo
+- Fundamentos de Programação 2
+- C
+- Circuitos Digitais
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)
+[![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcardoso@alunos.utfpr.edu.br)
+
+---
+
+### Provérbios 16:3
