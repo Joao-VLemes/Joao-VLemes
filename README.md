@@ -3,7 +3,7 @@
 
 
 ## João Lemes
-*Computer Engeneering - UTFPR*
+#### *Computer Engeneering - UTFPR*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)
 [![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcardoso@alunos.utfpr.edu.br)
