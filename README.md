@@ -1,4 +1,4 @@
-## Hi there 👋
+## ═══ ⟮✞⟯ ═══
 ![](https://github.com/Joao-VLemes/Joao-VLemes/blob/main/banner.jpg)
 <!--
 **Joao-VLemes/Joao-VLemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
