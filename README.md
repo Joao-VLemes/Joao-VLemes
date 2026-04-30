@@ -16,9 +16,6 @@
 [![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcardoso@alunos.utfpr.edu.br)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joaov.lems)   
 
-<br>
-<br>
-
 ### ✍️ TECs
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
