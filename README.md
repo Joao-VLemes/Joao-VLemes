@@ -13,5 +13,5 @@
 ### ✍️ TECs
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MIPS32](https://img.shields.io/badge/MIPS32-005292?style=for-the-badge&logo=cpu&logoColor=white)
+![MIPS32](https://img.shields.io/badge/MIPS32-FFA500?style=for-the-badge&logo=microchip&logoColor=white)
 
