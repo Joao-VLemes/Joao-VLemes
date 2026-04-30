@@ -5,7 +5,7 @@
 #### *Computer Engineering - UTFPR*
 
 ## 🚀 Passionate about the tech world
-- 🛠️ Focado em C, C# e Arquitetura MIPS
+- 🛠️ C, C# e Arquitetura MIPS
 - 🐧 Arch Linux Enthusiast
 - 🎸 Acoustic guitar player and fitness enthusiast
 
