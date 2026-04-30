@@ -4,9 +4,9 @@
 ## João Lemes
 #### *Computer Engineering - UTFPR*
 
-## 🚀 Passionate about the tech world
-- 🛠️ C, C# e Arquitetura MIPS
-- 🐧 Arch Linux Enthusiast
+<br>
+- 🛠️ C, C# e Arquitetura MIPS<br>
+- 🐧 Arch Linux Enthusiast<br>
 - 🎸 Acoustic guitar player and fitness enthusiast
 
 <br>
