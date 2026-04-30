@@ -6,9 +6,9 @@
 #### *Computer Engineering - UTFPR*
 
 ## 🚀 Passionate about the tech world
-- 🎓 Estudante de Engenharia de Computação @ UTFPR
 - 🛠️ Focado em C, C# e Arquitetura MIPS
 - 🐧 Arch Linux Enthusiast
+- 🎸 Acoustic guitar player and fitness enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaov-lemes/)
 [![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcardoso@alunos.utfpr.edu.br)
