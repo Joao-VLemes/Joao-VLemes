@@ -3,7 +3,7 @@
 
 
 ## João Lemes
-#### *Computer Engeneering - UTFPR*
+#### *Computer Engineering - UTFPR*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaov-lemes/)
 [![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcardoso@alunos.utfpr.edu.br)
@@ -11,7 +11,11 @@
 
 
 ### ✍️ TECs
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MIPS32](https://img.shields.io/badge/MIPS32-FFA500?style=for-the-badge&logo=microchip&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MIPS32-FFA500?style=for-the-badge&logo=microchip&logoColor=white" alt="MIPS32" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" />
+</p>
 
