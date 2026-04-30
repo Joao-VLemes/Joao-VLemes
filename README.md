@@ -5,7 +5,7 @@
 #### *Computer Engineering - UTFPR*
 
 <br>
-- 🛠️ C, C# e Arquitetura MIPS<br>
+- 🛠️ C, C# & Python<br>
 - 🐧 Arch Linux Enthusiast<br>
 - 🎸 Acoustic guitar player and fitness enthusiast
 
